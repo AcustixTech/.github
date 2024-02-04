@@ -1,4 +1,4 @@
 Welcome to Acustix, a compassionate beacon in the healthcare landscape dedicated to empowering individuals with autism. At the heart of our mission lies a commitment to holistic well-being, where every therapy and service is tailored to honor the unique needs and potential of those we serve. Our team of dedicated professionals and volunteers works tirelessly to create a nurturing environment that fosters growth, understanding, and healing. Through innovative therapies, community engagement, and unwavering support, we strive to unlock the full potential of each individual, helping them to navigate the world with confidence and resilience. Join us on this transformative journey as we work together to make a meaningful difference in the lives of those touched by autism. Welcome to a place of healing, hope, and endless possibilities. Welcome to Acustix
 
 
-![img1](../assets/img1.png)
+![img1](assets/img1.png)
